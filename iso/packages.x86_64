@@ -150,9 +150,7 @@ xfce4-goodies
 btop
 xdg-user-dirs
 packagekit-qt5
-neofetch
 keepassxc
-octopi-git
 networkmanager
 network-manager-applet
 pulseaudio
@@ -175,4 +173,6 @@ sddm-theme-astronaut
 tela-circle-icon-theme-blue
 parch-os-wallpapers
 dracula-gtk-theme
+bash-completion
+neofetch-git
 qt5-styleplugins

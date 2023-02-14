@@ -138,6 +138,13 @@ openssl-1.1
 openssl
 
 #Desktop
+xfce4
+sddm
+xreader
+engrampa
+unzip
+unrar
+xfce4-goodies
 
 #systemutils
 btop
@@ -155,3 +162,10 @@ os-prober
 paru
 parch-branding
 parch-pacman
+appimagelauncher
+estedad-fonts
+fluent-gtk-theme-git
+hack-nerd-fonts
+sddm-theme-astronaut
+tela-circle-icon-theme-blue
+parch-os-wallpapers

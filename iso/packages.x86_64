@@ -29,7 +29,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-falkon
+firefox
 fsarchiver
 git
 gnu-netcat
@@ -94,7 +94,6 @@ pv
 python
 python-psutil
 python-systemd
-qemu-guest-agent
 refind
 #reflector
 reiserfsprogs
@@ -176,5 +175,4 @@ dracula-gtk-theme
 bash-completion
 neofetch-git
 qt5-styleplugins
-parch-dorood
 warpinator

@@ -154,6 +154,9 @@ networkmanager
 network-manager-applet
 pulseaudio
 pavucontrol
+parch-firefox-config
+ttf-ms-fonts
+motrix-bin
 
 #parchlinuxstuff
 calamares
@@ -174,5 +177,4 @@ parch-os-wallpapers
 dracula-gtk-theme
 bash-completion
 neofetch-git
-qt5-styleplugins
 warpinator

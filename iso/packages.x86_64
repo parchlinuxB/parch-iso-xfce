@@ -160,6 +160,7 @@ motrix-bin
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
+gparted
 
 #parchlinuxstuff
 calamares

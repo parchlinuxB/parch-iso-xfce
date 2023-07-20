@@ -168,6 +168,8 @@ gparted
 parch-grub
 parch-livecd-config
 livecd-sounds
+fira-code-font
+fira-code-mono
 
 #parchlinuxstuff
 calamares

@@ -144,6 +144,10 @@ engrampa
 unzip
 unrar
 xfce4-goodies
+nordzy-cursors
+nordic-bluish-accent-standard-buttons-theme
+papirus-icon-theme
+xfce-parch
 
 #systemutils
 btop
@@ -161,6 +165,9 @@ android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
+parch-grub
+parch-livecd-config
+livecd-sounds
 
 #parchlinuxstuff
 calamares

@@ -158,14 +158,12 @@ networkmanager
 network-manager-applet
 pulseaudio
 pavucontrol
-ttf-ms-fonts
+ttf-dejavu
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
 gparted
 parch-grub
-parch-livecd-config
-livecd-sounds
 fira-code-font
 fira-code-mono
 
@@ -179,7 +177,6 @@ parch-emoji-ios
 emote
 parch-branding
 parch-pacman
-appimagelauncher
 estedad-fonts
 hack-nerd-fonts
 sddm-theme-astronaut
@@ -188,4 +185,5 @@ parch-os-wallpapers
 dracula-gtk-theme
 bash-completion
 neofetch-git
-warpinator
+parch-welcome
+python-pyqt6

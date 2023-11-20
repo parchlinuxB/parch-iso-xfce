@@ -169,21 +169,20 @@ fira-code-mono
 
 #parchlinuxstuff
 calamares
-parchlinux-cala-config
+calamares-parch
 os-prober
 vazirmatn-fonts
 paru
 parch-emoji-ios
-emote
 parch-branding
 parch-pacman
 estedad-fonts
 hack-nerd-fonts
 sddm-theme-astronaut
 tela-circle-icon-theme-blue
-parch-os-wallpapers
+parch-wallpapers
 dracula-gtk-theme
 bash-completion
 neofetch-git
 parch-welcome
-python-pyqt6
+

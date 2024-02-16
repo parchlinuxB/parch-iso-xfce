@@ -83,6 +83,13 @@ open-iscsi
 open-vm-tools
 openconnect
 openssh
+pipewire
+pipewire-pulse
+wireplumber
+bluez
+bluez-utils
+blueman
+parch-bluetooth
 openvpn
 partclone
 parted
@@ -152,11 +159,9 @@ xfce-parch
 #systemutils
 btop
 xdg-user-dirs
-packagekit-qt5
 keepassxc
 networkmanager
 network-manager-applet
-pulseaudio
 pavucontrol
 ttf-dejavu
 android-file-transfer

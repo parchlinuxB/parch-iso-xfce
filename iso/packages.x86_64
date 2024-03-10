@@ -190,3 +190,5 @@ bash-completion
 neofetch-git
 parch-welcome
 parch-sddm-theme
+parch-plymouth
+plymouth

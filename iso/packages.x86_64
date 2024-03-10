@@ -183,11 +183,10 @@ parch-branding
 parch-pacman
 estedad-fonts
 hack-nerd-fonts
-sddm-theme-astronaut
 tela-circle-icon-theme-blue
 parch-wallpapers
 dracula-gtk-theme
 bash-completion
 neofetch-git
 parch-welcome
-
+parch-sddm-theme

@@ -126,7 +126,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 vpnc
 which
 wireless-regdb
@@ -150,6 +150,7 @@ xreader
 engrampa
 unzip
 unrar
+p7zip
 xfce4-goodies
 nordzy-cursors
 nordic-bluish-accent-standard-buttons-theme
@@ -159,11 +160,9 @@ xfce-parch
 #systemutils
 btop
 xdg-user-dirs
-keepassxc
 networkmanager
 network-manager-applet
 pavucontrol
-ttf-dejavu
 android-file-transfer
 gvfs-mtp
 broadcom-wl-dkms
@@ -171,6 +170,9 @@ gparted
 parch-grub
 fira-code-font
 fira-code-mono
+galculator
+catfish
+yt-dlp
 
 #parchlinuxstuff
 calamares
@@ -188,8 +190,28 @@ parch-wallpapers
 dracula-gtk-theme
 bash-completion
 neofetch-git
+fastfetch
 parch-welcome
 parch-sddm-theme
 parch-plymouth
 plymouth
 boost
+parch-printer
+system-config-printer
+
+#video drivers
+xf86-input-elographics
+#xf86-input-evdev
+xf86-input-libinput
+#xf86-input-vmmouse
+#xf86-input-void
+#xf86-video-amdgpu
+#xf86-video-ati
+#xf86-video-fbdev
+#xf86-video-intel
+#xf86-video-nouveau
+#xf86-video-openchrome
+#xf86-video-vesa
+xf86-video-vmware
+mesa
+

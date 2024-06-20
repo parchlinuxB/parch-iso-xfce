@@ -155,7 +155,7 @@ xfce4-goodies
 nordzy-cursors
 nordic-bluish-accent-standard-buttons-theme
 papirus-icon-theme
-xfce-parch
+#xfce-parch
 
 #systemutils
 btop
@@ -185,7 +185,7 @@ parch-branding
 parch-pacman
 estedad-fonts
 hack-nerd-fonts
-tela-circle-icon-theme-blue
+#tela-circle-icon-theme-blue
 parch-wallpapers
 dracula-gtk-theme
 bash-completion

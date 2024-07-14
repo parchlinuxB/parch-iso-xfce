@@ -198,6 +198,8 @@ plymouth
 boost
 parch-printer
 system-config-printer
+parch-xfce-dotfile 
+
 
 #video drivers
 xf86-input-elographics

@@ -198,7 +198,7 @@ plymouth
 boost
 parch-printer
 system-config-printer
-parch-xfce-dotfile 
+parch-xfce-dotfile
 
 
 #video drivers

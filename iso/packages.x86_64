@@ -145,15 +145,16 @@ openssl
 
 #Desktop
 xfce4
+xfce4-goodies
+xfce4-panel
+xfce4-terminal
+thunar
 sddm
 xreader
 engrampa
 unzip
 unrar
 p7zip
-xfce4-goodies
-nordzy-cursors
-nordic-bluish-accent-standard-buttons-theme
 papirus-icon-theme
 #xfce-parch
 
@@ -199,7 +200,6 @@ boost
 parch-printer
 system-config-printer
 parch-xfce-dotfile
-
 
 #video drivers
 xf86-input-elographics
